@@ -15,3 +15,5 @@ Zastosowanie Tkinter: Projekt został zrealizowany przy użyciu biblioteki Tkint
 Cel projektu:
 
 Celem projektu było zaprezentowanie umiejętności tworzenia interfejsów graficznych w Pythonie przy użyciu Tkinter oraz implementacja prostego kalkulatora, który może być używany do wykonywania podstawowych operacji matematycznych.
+
+Link do wideo https://www.youtube.com/watch?v=vh_u3Qxl9p8
